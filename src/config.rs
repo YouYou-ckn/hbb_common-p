@@ -118,7 +118,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["www.fenyew.top"];
-pub const RS_PUB_KEY: &str = "KR67aZ2YV3x7u6YFQPl1RjdLXWVikmWBsYF63JlaV9M=";
+pub const RS_PUB_KEY: &str = "qZUcokaaJidsqlr6Huv+Crp8AjMK7gb3UwMkOXAAMgk=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
